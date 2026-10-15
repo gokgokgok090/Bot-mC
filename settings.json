@@ -31,8 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-         "Ladle"
+        "0"
       ]
     },
     "chat-log": true,
